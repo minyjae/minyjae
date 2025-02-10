@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student of Chiang Mai University in faculty of Computer Engineer
 ----------------------------------------------------------------
 
-I am in 3 years in Computer Engineer and attention about back-end developer or software developer. I'm low experience to work for real project but I'm intend to learn a new thing and ready to be a good internship and employee in future.
+I am a third-year Computer Engineering student interested in backend development and software development. I have limited experience working on real projects, but I am eager to learn new things and ready to be a good intern and employee in the future.
 
 * 🌍  I'm based in Chiang Mai, Thailand
 * ✉️  You can contact me at [jiradate01@gmail.com](mailto:jiradate01@gmail.com)
