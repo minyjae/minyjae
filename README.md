@@ -10,6 +10,8 @@ I am a third-year Computer Engineering student interested in backend development
 * ✉️  You can contact me at [jiradate01@gmail.com](mailto:jiradate01@gmail.com)
 * 🧠  I'm learning new language to dev back-end and training front-end to be fullstack
 
+<img align="right" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  />
+
 ### Skills
 
 <div align="left">
