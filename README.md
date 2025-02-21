@@ -95,6 +95,10 @@ I am a third-year Computer Engineering student interested in backend development
 
 ### Badges
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/minyjae/minyjae/output/snake.svg" alt="Snake animation" />
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/minyjae"><img src="https://github-readme-stats.vercel.app/api?username=minyjae&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="minyjae's GitHub stats" /></a>
