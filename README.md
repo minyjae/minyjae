@@ -7,8 +7,9 @@ Graduated Student from Chiang Mai University in faculty of Computer Engineer
 I am a graduated Computer Engineering student interested in Backend Development, Software Development, Fullstack Developer, DevOps and Data Engineer. I have limited experience working on real projects, but I am eager to learn new things and ready to be a good employee in the future.
 
 * 🌍  I'm based in Chiang Mai, Thailand
-* ✉️  You can contact me at [jiradate01@gmail.com](mailto:jiradate01@gmail.com)
+* ✉️  If you interested my passion to step over junior in AI era to be a STRONG !! senior, you can contact me at [jiradate01@gmail.com](mailto:jiradate01@gmail.com) or Tel. (+66)30418514 (093-0418514)
 * 🧠  I'm learning new language to dev back-end and training front-end to be fullstack
+* And now I trying to learn C# language because from now I look around for a jobs, I see only C# .NET or Java. It's make me hallucinate TT.
 
 Andddd That my Portfolio to show some showcase of project such as senior project or mini project to learn new things
 here !! [portfolio.jrdproject.xyz](https://portfolio.jrdproject.xyz/)
