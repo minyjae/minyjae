@@ -1,14 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jiradate Oratai
 =======================================================================================================================================
 
-Student of Chiang Mai University in faculty of Computer Engineer
+Graduated Student from Chiang Mai University in faculty of Computer Engineer
 ----------------------------------------------------------------
 
-I am a third-year Computer Engineering student interested in backend development and software development. I have limited experience working on real projects, but I am eager to learn new things and ready to be a good intern and employee in the future.
+I am a graduated Computer Engineering student interested in Backend Development, Software Development, Fullstack Developer, DevOps and Data Engineer. I have limited experience working on real projects, but I am eager to learn new things and ready to be a good employee in the future.
 
 * 🌍  I'm based in Chiang Mai, Thailand
 * ✉️  You can contact me at [jiradate01@gmail.com](mailto:jiradate01@gmail.com)
 * 🧠  I'm learning new language to dev back-end and training front-end to be fullstack
+
+Andddd That my Profolio to some showcase of project such as senior project or mini project to learn new things
+here !! [portfolio.jrdproject.xyz](https://portfolio.jrdproject.xyz/)
 
 <img align="right" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  />
 
