@@ -9,7 +9,7 @@ I am a graduated Computer Engineering student interested in Backend Development,
 * 🌍  I'm based in Chiang Mai, Thailand And interested to work at Bangkok or Northern like Chiang Mai, Lamphun or Company use techstack like Go, C# .Net ASP, Vue.js, Next.js, Angular, Python.
 * ✉️  If you interested my passion to step over junior in AI era to be a STRONG !! senior, you can contact me at [jiradate01@gmail.com](mailto:jiradate01@gmail.com) or  Tel. (+66)30418514 (093-0418514)
 * 🧠  I'm learning new language to dev back-end and training front-end to be fullstack
-* And now I trying to learn C# language because from now I look around for a jobs, I see only C# .NET or Java. It's make me hallucinate TT.
+* And now I trying to learned C# language because from now I look around for a jobs, I see only C# .NET or Java. It's make me hallucinate TT.
 * This is all technical skill I learn in unemployed (CI/CD workflow, Jenkins, Data Cleaning, ML training, Angular, C#.Net ASP Web API, gRPC, Microservice, Basic Deploy using AWS "like container runing on EC2 and nginx to serve content", Cloudflare DNS)
 
 Andddd That my Portfolio to show some showcase of project such as senior project or mini project to learn new things                                                         
