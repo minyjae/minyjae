@@ -10,7 +10,7 @@ I am a graduated Computer Engineering student interested in Backend Development,
 * ✉️  You can contact me at [jiradate01@gmail.com](mailto:jiradate01@gmail.com)
 * 🧠  I'm learning new language to dev back-end and training front-end to be fullstack
 
-Andddd That my Profolio to some showcase of project such as senior project or mini project to learn new things
+Andddd That my Portfolio to show some showcase of project such as senior project or mini project to learn new things
 here !! [portfolio.jrdproject.xyz](https://portfolio.jrdproject.xyz/)
 
 <img align="right" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  />
